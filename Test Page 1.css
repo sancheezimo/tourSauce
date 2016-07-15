@@ -1,0 +1,53 @@
+html {
+	background-image: url("https://static.pexels.com/photos/28184/pexels-photo-28184.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	color: black;
+	font-family: "Trebuchet"
+}
+
+.login {
+	align-content: center;
+	text-align: right;
+	position: absolute;
+	top: 8px;
+	right: 16px;
+}
+
+.nav {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.nav_item {
+	height: auto;
+	width: auto;
+	background: white;
+	margin-bottom: 10px;
+}
+
+#chance_video {
+	display: flex;
+	justify-content: center;
+}
+
+h2, p{
+	text-align: center;
+	color: black;
+}
+
+mark {
+	background: cyan;
+}
+
+ul {
+	font-family: Trebuchet, Arial, sans-serif
+}
+
+
+
